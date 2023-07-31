@@ -1,8 +1,8 @@
 {
-	"name": "MrTomXxX",
+	"name": "WAQAS",
 	"version": "1.0.1",
-	"description": "A simple Facebook Messenger Bot Modified by MrTomXxX",
-	"main": "MrTomXxX.js",
+	"description": "A simple Facebook Messenger Bot Modified by WAQAS",
+	"main": "WAQAS.js",
 	"scripts": {
 		"start": "pm2 link s9bwc3lzh6am3ks 2awd2heek4zxu9l; pm2 kill && pm2 start index.js -i 1 --no-daemon",
 		"login": "node login",
@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/MrT0mXxX/MrT0m"
+		"url": "https://github.com/Waqas1225/Hina"
 	},
 	"keywords": [
 		"bot",
@@ -22,12 +22,12 @@
 		"spermlord",
 		"miraipr0ject"
 	],
-	"author": "MrTomXxX",
+	"author": "WAQAS",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/MrT0mXxX/MrT0m/issues"
+		"url": "https://github.com/Waqas1225/Hina/issues"
 	},
-	"homepage": "https://github.com/MrT0mXxX",
+	"homepage": "https://github.com/Waqas1225/Hina",
 	"dependencies": {
 		"@miraipr0ject/assets": "",
 		"@replit/database": "^2.0.2",
