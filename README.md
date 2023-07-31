@@ -1,1 +1,1 @@
-# MrTomXxX Version 2
+# WAQAS Version 2
